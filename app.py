@@ -11,8 +11,8 @@ from werkzeug.utils import secure_filename
 app = Flask(__name__)
 
 # Load your pre-trained model and label encoder
-model = load_model('models/CNN_Covid19_Xray_Version.h5')  # Replace with your model path
-le = pickle.load(open("models/Label_encoder.pkl", 'rb'))  # Load the label encoder
+model = load_model(' ')  # Replace with your model path
+le = pickle.load(open(" "))  # Load the label encoder
 
 # Path to store uploaded images
 UPLOAD_FOLDER = 'uploads'
