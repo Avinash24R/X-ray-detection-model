@@ -12,5 +12,6 @@ The goal of this project is to automate the detection of COVID-19 infections usi
 - Provides a streamlined prediction process with minimal input.
 
 ## 🔗 Links
+<a href="https://instagram.com/_aviiii24_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Avinash24R)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/avinash-rout-58a26a28b?original_referer=https%3A%2F%2Fwww.google.com%2F)
